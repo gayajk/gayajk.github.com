@@ -17,7 +17,7 @@ To startwith, this is how you add an image.
 
 I know that just having images is not interesting enough, so lets add a video. All you need to do is copy a youtube link, and paste it in a line like the one below.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=moSFlvxnbgk" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="http://www.youtube.com/embed/moSFlvxnbgk" frameborder="0" allowfullscreen></iframe>
 
 <br />
 
