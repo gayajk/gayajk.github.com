@@ -5,7 +5,7 @@ title: Noise from Raga :)
 cover: /images/batman.jpg
 ---
 
-I was trying to talk to you on whatsapp and then remembered that you are travelling so, i thought i would make you this blog, so that you can write about you awesome stuff without having to deal with all the software crap that goes into making a blog. I have tried to make it as simple as possible for you. You can obviously ping me if you have any questions.
+I was trying to talk to you on whatsapp and then remembered that you are travelling so, I thought I would make you this blog, so that you can write about your awesome stuff without having to deal with all the software crap that goes into making a blog. I have tried to make it as simple as possible for you. You can obviously ping me if you have any questions.
 
 ---
 
@@ -18,6 +18,9 @@ To startwith, this is how you add an image.
 I know that just having images is not interesting enough, so lets add a video. All you need to do is copy a youtube link, and paste it in a line like the one below.
 
 <iframe width="100%" height="315" src="http://www.youtube.com/embed/moSFlvxnbgk" frameborder="0" allowfullscreen></iframe>
+
+Currently, you will only be able to add youtube links (easiest to deal with :P ) <br>
+The link to the youtube video can't be a regular link. Notice that youtube videos usually have a watch?v=someweirdID. All you need to do is copy the weird ID and paste it after the /embed/ in the above URL to make a URL for the video you are trying to share.
 
 <br />
 
