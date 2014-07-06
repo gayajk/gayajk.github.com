@@ -2,7 +2,7 @@
 layout: post
 date: 2014-07-05 09:55:39
 title: Noise from Raga :)
-cover: /images/13072203.png
+cover: /images/batman.jpg
 ---
 
 I was trying to talk to you on whatsapp and then remembered that you are travelling so, i thought i would make you this blog, so that you can write about you awesome stuff without having to deal with all the software crap that goes into making a blog. I have tried to make it as simple as possible for you. You can obviously ping me if you have any questions.
@@ -11,13 +11,13 @@ I was trying to talk to you on whatsapp and then remembered that you are travell
 
 To startwith, this is how you add an image.
 
-![Gaya](/images/13072203.png)
+![Gaya](/images/batman.jpg)
 
 **Make sure the image exists in the images directory. **
 
 I know that just having images is not interesting enough, so lets add a video. All you need to do is copy a youtube link, and paste it in a line like the one below.
 
-<iframe width="100%" height="315" src="http://www.youtube.com/embed/N5WurXNec7E" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=moSFlvxnbgk" frameborder="0" allowfullscreen></iframe>
 
 <br />
 
