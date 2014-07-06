@@ -11,7 +11,5 @@ Originally from [Chennai, India](https://www.google.com/maps/preview?q=chennai),
 
 [GitHub](https://github.com/gayajk)
 
-[Blog feed](/feed.xml)
-
 
 <br />
