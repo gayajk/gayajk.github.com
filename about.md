@@ -3,20 +3,13 @@ layout: post
 title: About
 ---
 
-**Mu-An Chiou** <small>(**邱慕安**)</small>. <br />
-[Designer/Developer](https://github.com/blog/1568-mu-an-chiou-is-a-githubber) at [GitHub](https://github.com) and co-founder of [Zeczec](http://zeczec.com).
+Gayathri Jaikumar <small>(Aspiring Herpatologist)</small>. <br />
 
-Originally from [Taipei, Taiwan](https://maps.google.com/maps?q=taipei), studied and worked in the UK (London and Birmingham) for 5 years. Currently based in Taipei.
+Originally from [Chennai, India](https://www.google.com/maps/preview?q=chennai), studying environmental science.
 
 <br />
 
-[GitHub](https://github.com/muan)
-
-[Twitter](https://twitter.com/muanchiou)
-
-[Dribbble](http://dribbble.com/muan)
-
-[Speakerdeck](http://speakerdeck.com/muan)
+[GitHub](https://github.com/gayajk)
 
 [Blog feed](/feed.xml)
 
