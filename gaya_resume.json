@@ -1,0 +1,149 @@
+{
+    "settings": {
+        "icons": true
+    },
+    "firstname": "Gayathri",
+    "familyname": "Jaikumar",
+    "bio_data": {
+        "email": "jkgaya@gmail.com",
+        "phone": "+91 917-679-3617",
+        "stars": [
+            "Animal behavior",
+            "Conservation science",
+            "Ecology",
+            "Evolution"
+        ],
+        "skills": {
+            "details": [
+                {
+                    "type": "Molecular biology techniques",
+                    "items": [
+                        "PCR",
+                        "Gel electrophoresis"
+                    ]
+                },
+                {
+                    "type": "Training in Animal handling",
+                    "items": [
+                        "Amphibians",
+                        "Non-venomous reptiles"
+                    ]
+                }
+            ]
+        },
+        "education": {
+            "show_gpa": true,
+            "schools": [
+                {
+                    "degree": "Bachelor of Science",
+                    "major": "Zoology",
+                    "institution": "Madras Christian College",
+                    "graduation_year": "2016 (Expected)",
+                    "gpa": "9.53/10"
+                },
+                {
+                    "degree": "Higher Secondary Education, CBSE Board",
+                    "major": "Biology",
+                    "institution": "Modern Senior Secondary School",
+                    "graduation_year": 2013,
+                    "gpa": "96%"
+                }
+            ]
+        },
+        "experience": {
+            "items": [
+                {
+                    "title": "Research Assistant",
+                    "organisation": "Indian Institute of Technology",
+		    "location": "Madras",
+                    "from": "Sept. 2014",
+                    "to": "Nov. 2014",
+                    "details": [
+                        "Under the guidance of Dr.Suraish Kumar – Department of Biotechnology .",
+                        "Quantitative analysis of phase variations in Reactive Oxygen species in algal cells.",
+                        "Understanding the relationship between ROS (reactive Oxygen species) and Cancer in HeLa cell lines."
+                    ]
+                },
+                {
+                    "title": "Research Intern",
+                    "organisation": "Kalinga Centre for Rainforest Ecology",
+    		    "location": "Agumbe",
+                    "from": "Jan. 2015",
+                    "to": "Feb. 2015",
+                    "details": [
+                        "Assisted the on-going 4 year research study on snake species abundance and distribution.",
+                        "Visual survey and documentation of various species of snakes in Agumbe Rain forest (Within study area)",
+                        "Leading interested non biologist groups on nature trails and camps."
+                    ]
+                }
+            ]
+        },
+        "acad_achievements": {
+            "items": [
+                "Was the National topper for Biology in 2013. (top 0.1%)",
+		"Recepient, Macintosh scholarship for academic excellence (2013 - present)",
+		"Recepient, Ranganayaki ammal memorial Scholarship (2013)",
+		"Recepient, SHE Scholarship for being among the top 1% in CBSE board exams held in 2013. This scholarchip funds undergraduate tuition upto 4 lakh INR",
+		"Scored 97.72 percentile in the 12th National Science Olympiad"
+            ]
+        },
+        "other_projects": {
+            "items": [
+                {
+                    "headline": "BNHS (Bombay Natural History Society) – member",
+                    "points": [
+                        "Locations : Gir national park , Amboli , Coorg"
+                    ]
+                },
+                {
+                    "headline": "SSTCN – Volunteer (Student sea turtle conservation network)",
+                    "points": [
+                        "Turtle walks along the Marina coast during Olive Ridley nesting season – to identify and relocate eggs to hatchery and subsequent release of hatchlings into sea to ensure better rates of survival in species."
+                    ]
+                },
+                {
+                    "headline": "Scrub society , Madras Christian College – Core member",
+                    "points": [
+                        "Organisation and coordination regular of clean-up activities, bird walks, tree census and documentation, awareness creation"
+                    ]
+                },
+                {
+                    "headline": "Rescue of injured stray animals with AWPT (Animal Welfare Protection Trust)",
+                    "points": [
+                        "Frequent rescue of local stray animals injured or otherwise and consequent rehabilitation"
+                    ]
+                }
+            ]
+        },
+        "undergrad_courses": [
+            {
+                "name": "Biotechnology"
+            },
+            {
+                "name": "Classical taxonomy and classification (Invertebrata and vertebrata)"
+            },
+            {
+                "name": "Cell Biology"
+            },
+            {
+                "name": "Developmental Biology"
+            },
+            {
+                "name": "Animal behavior"
+            },
+            {
+                "name": "Evolution"
+            },
+            {
+                "name": "Biophysics"
+            }
+        ],
+        "extra_curricular": {
+            "items": [
+                "Organiser and Co-ordinator of cultural events – Go Wild",
+                "Coordinator of College culturals – Deep Woods.",
+                "Trained in Indian classical dance forms – Bharatnatyam and Kathak."
+            ]
+        }
+    }
+}
